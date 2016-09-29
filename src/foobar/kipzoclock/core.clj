@@ -1,0 +1,1 @@
+(ns foobar.kipzoclock.core)

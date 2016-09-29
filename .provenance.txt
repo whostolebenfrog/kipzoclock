@@ -1,1 +1,14 @@
-Only intended to trigger webhook
+# generator info
+group: atomist-project-templates
+artifact: simple-lein-project
+version: 1.0.4
+
+# backing git repo
+repo: git@github.com:atomist-project-templates/simple-lein-project.git
+branch: master
+sha: f4e9de773231f7ea504641a2aa36cbd05f1dd0ca
+
+# parameter values
+package_name: foobar
+project_description: Will this work?
+project_name: kipzoclock
